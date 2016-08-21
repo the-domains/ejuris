@@ -6,9 +6,9 @@ color:
   saturation: 0.13873215694911778
   rhythmicContrast: 0.2443460738286376
   brandColors:
-    - '#FFFFFF'
-    - '#0075BF'
-    - '#000000'
-    - '#BFDCEF'
-    - '#5FA8D7'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: ejuris
