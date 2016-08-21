@@ -1,0 +1,14 @@
+layout_spectrum: 0.340341076022014
+typography_spectrum: 0.3020330367144197
+color:
+  brandStrength: 0.7390848810318857
+  lightness: 0.6000609369948506
+  saturation: 0.13873215694911778
+  rhythmicContrast: 0.2443460738286376
+  brandColors:
+    - '#FFFFFF'
+    - '#0075BF'
+    - '#000000'
+    - '#BFDCEF'
+    - '#5FA8D7'
+name: ejuris
